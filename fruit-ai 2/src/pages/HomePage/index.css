@@ -1,0 +1,15 @@
+.MuiCard-root {
+  transition: transform 0.3s ease;
+}
+
+.MuiCard-root:hover {
+  transform: translateY(-10px);
+}
+
+.MuiButton-containedPrimary {
+  background-color: #4caf50;
+}
+
+.MuiButton-containedPrimary:hover {
+  background-color: #388e3c;
+}

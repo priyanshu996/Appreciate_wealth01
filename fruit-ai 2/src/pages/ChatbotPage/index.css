@@ -1,0 +1,18 @@
+.chatbot-page {
+  padding: 20px;
+  text-align: center;
+}
+
+.fruit-card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.fruit-card:hover {
+  transform: scale(1.05);
+}
+
+.fruit-details {
+  margin-top: 30px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
